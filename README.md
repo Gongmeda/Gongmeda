@@ -1,9 +1,15 @@
 <h2 align="center">👋 Hello! I'm Gongmeda.</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Tech_Blog-black?style=flat-square&logo=github&logoColor=white" onclick="https://gongmeda.github.io/"></img>
-<img src="https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=black"></img>
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" link="mailto:gongmeda@gmail.com"></img>
+<a href="https://gongmeda.github.io/">
+  <img src="https://img.shields.io/badge/Tech_Blog-black?style=flat-square&logo=github&logoColor=white"></img>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=black"></img>
+</a>
+<a href="mailto:gongmeda@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></img>
+</a>
 </p>
 
 ## 😎 About Me
