@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Gongmeda.</h2>
 
-<!--
-**Gongmeda/Gongmeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😎 About Me
+- 🔭 I’m currently working on **Personal Web Projects**
+- 🌱 I’m currently learning **Typescript Fullstack Web Development**
+- 🔍 I aim to be a **Professional Backend Developer**
+- 😖 I'm trying to develop a habit of **writing TIL blog posts**
+- 🌟 I like to plan **New Ideas**
+- 💡 I'm interested in participating **Hackathons**
 
-Here are some ideas to get you started:
+## 📗 My Latest Blog Posts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Programming Stats
