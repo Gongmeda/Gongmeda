@@ -11,3 +11,5 @@
 ## 📗 My Latest Blog Posts
 
 ## 💻 My Programming Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
