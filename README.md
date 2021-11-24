@@ -41,6 +41,6 @@ C++          1 min           ░░░░░░░░░░░░░░░░░
 
 ##### Github Stats
 <p align="center">
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Gongmeda&show_icons=true&theme=nord"></img>
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongmeda&layout=compact&theme=nord"></img>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Gongmeda&show_icons=true&theme=graywhite"></img>
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gongmeda&layout=compact&theme=graywhite"></img>
 </p>
