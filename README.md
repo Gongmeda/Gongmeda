@@ -20,7 +20,7 @@
 
 - 🔍 I aim to be a **Professional Backend Developer**
 
-- 😖 I'm trying to develop a habit of **writing TIL blog posts**
+- 😖 I'm trying to develop a habit of **Writing TIL Blog Posts**
 
 - 🌟 I like to plan **New Ideas**
 
