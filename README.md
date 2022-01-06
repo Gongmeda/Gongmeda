@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Personal Web Projects**
 
-- 🌱 I’m currently learning **Spring Boot Framework**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 🔍 I aim to be a **Professional Backend Developer**
 
