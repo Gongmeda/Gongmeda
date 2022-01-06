@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Gongmeda.</h2>
 
 <p align="center">
-<a href="https://gongmeda.github.io/">
+<a href="https://velog.io/@gongmeda/">
   <img src="https://img.shields.io/badge/Tech_Blog-black?style=flat-square&logo=github&logoColor=white"></img>
 </a>
 <a href="#">
@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Personal Web Projects**
 
-- 🌱 I’m currently learning **Typescript Fullstack Web Development**
+- 🌱 I’m currently learning **Spring Boot Framework**
 
 - 🔍 I aim to be a **Professional Backend Developer**
 
