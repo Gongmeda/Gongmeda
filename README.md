@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Gongmeda.</h2>
+<h1 align="center">👋 Hello! I'm Gongmeda.</h1>
 
 <p align="center">
 <a href="https://velog.io/@gongmeda/">
