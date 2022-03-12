@@ -4,7 +4,7 @@
 <a href="https://velog.io/@gongmeda/">
   <img src="https://img.shields.io/badge/Tech_Blog-black?style=flat-square&logo=github&logoColor=white"></img>
 </a>
-<a href="#">
+<a href="https://gongmeda.notion.site/c82810c20f584d888155eda6cf7ed0e3">
   <img src="https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=black"></img>
 </a>
 <a href="mailto:gongmeda@gmail.com">
