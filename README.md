@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Gongmeda.</h1>
 
 <p align="center">
-<a href="https://velog.io/@gongmeda/">
+<a href="https://gongmeda.tistory.com">
   <img src="https://img.shields.io/badge/Tech_Blog-black?style=flat-square&logo=github&logoColor=white"></img>
 </a>
 <a href="https://gongmeda.notion.site/c82810c20f584d888155eda6cf7ed0e3">
