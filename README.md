@@ -8,7 +8,7 @@
 
 ### Experience
 
-- [Sungkyunkwan University SCG(Software Consultant Group)](https://scg.skku.ac.kr/) (2021.02 ~ now)
+- [Sungkyunkwan University SCG(System Consultant Group)](https://scg.skku.ac.kr/) (2021.02 ~ now)
 
 ### Participated Hackathons
 
