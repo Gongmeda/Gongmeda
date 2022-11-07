@@ -15,6 +15,7 @@
 - UNI-DTHON 2021
 - SW중심대학 공동해커톤 2022
 - UNITHON 9TH
+- UNI-DTHON 2022
 
 ### Programming Stats
 
