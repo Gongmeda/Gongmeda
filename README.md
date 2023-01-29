@@ -24,6 +24,7 @@
 - SW중심대학 공동해커톤 2022
 - UNITHON 9TH
 - UNI-DTHON 2022
+- SPARCS 2023 StartUp Hackathon
 
 ### Programming Stats
 
