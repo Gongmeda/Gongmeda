@@ -16,7 +16,8 @@
 
 ### Experience
 
-- [Sungkyunkwan University SCG(System Consultant Group)](https://scg.skku.ac.kr/) (2021.02 ~ now)
+- [Sungkyunkwan University - SCG(System Consultant Group)](https://scg.skku.ac.kr/) (2021.02 ~ 2023.02)
+- [Kakao Brain - Backend Engineer Intern (Pathfinder 2th)](https://www.kakaobrain.com/) (2023.06 ~ now)
 
 ### Participated Hackathons
 
