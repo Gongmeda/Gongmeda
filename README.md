@@ -26,6 +26,7 @@
 - UNITHON 9TH
 - UNI-DTHON 2022
 - SPARCS 2023 StartUp Hackathon
+- UNITHON 10TH
 
 ### Programming Stats
 
