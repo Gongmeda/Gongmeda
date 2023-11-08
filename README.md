@@ -10,7 +10,7 @@
 
 ### About Me
 
-- 🎓 majoring **computer science**
+- 🎓 majored **computer science**
 - 🚀 aiming to be a **backend developer**
 - 💡 enjoy planning **new ideas**
 
