@@ -11,8 +11,9 @@
 ### About Me
 
 - 🎓 majored **computer science**
-- 🚀 aiming to be a **backend developer**
-- 💡 enjoy planning **new ideas**
+- 🚀 currently working as a **backend engineer**
+- 💡 enjoy planning **new ideas**
+- 👀 focusing on **building productive routines**
 
 ### Experience
 
