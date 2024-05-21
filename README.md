@@ -1,11 +1,8 @@
 <h2>Gongmeda | Youngmin Byeon</h2>
 
 <div>
-<a href="https://velog.io/@gongmeda">
-   <img src="https://img.shields.io/badge/-gongmeda.log-20C997?style=flat&logo=velog&logoColor=20c997&labelColor=282828">
-</a>
-<a href="https://wakatime.com/@95e11c6f-fdc0-4a8a-a55d-d3690dce53a3"><img src="https://wakatime.com/badge/user/95e11c6f-fdc0-4a8a-a55d-d3690dce53a3.svg" alt="Total time coded since Sep 22 2020" /></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGongmeda&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+   <a href="https://wakatime.com/@95e11c6f-fdc0-4a8a-a55d-d3690dce53a3"><img src="https://wakatime.com/badge/user/95e11c6f-fdc0-4a8a-a55d-d3690dce53a3.svg" alt="Total time coded since Sep 22 2020" /></a>
+   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGongmeda&count_bg=%23555555&title_bg=%23555555&icon=&icon_cozlor=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
 
 ### About Me
