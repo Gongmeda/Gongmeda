@@ -7,7 +7,7 @@
 
 ### About Me
 
-- 🎓 majored **computer science**
+- 🎓 majored in **computer science**
 - 🚀 currently working as a **backend engineer**
 - 💡 enjoy planning **new ideas**
 - 👀 focusing on **building productive routines**
