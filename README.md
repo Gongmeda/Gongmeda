@@ -20,8 +20,8 @@
 
 - [Sungkyunkwan University - SCG(System Consultant Group)](https://scg.skku.ac.kr/) (2021.02 ~ 2022.12)
 - [Kakao Brain - Backend Engineer Intern (Pathfinder 2th)](https://www.kakaobrain.com/) (2023.06 ~ 2023.08)
-- [YAPP 23rd](https://www.yapp.co.kr/) (2023.11 ~ 2024.02)
-- [2024 Kakao Internship - Server](https://www.kakaocorp.com/page/detail/10677) (2024.01 ~ 2024.02)
+- [YAPP - 23rd](https://www.yapp.co.kr/) (2023.11 ~ 2024.02)
+- [Kakao - 2024 Internship (Server)](https://www.kakaocorp.com/page/detail/10677) (2024.01 ~ 2024.02)
 
 ### Programming Stats
 
